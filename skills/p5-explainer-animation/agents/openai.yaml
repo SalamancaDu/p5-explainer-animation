@@ -1,0 +1,3 @@
+interface:
+  display_name: "口播配画面动画"
+  short_description: "用 p5.js 制作复古拼贴、手绘涂鸦和水彩作画动画，并验证播放与导出"
